@@ -1,0 +1,32 @@
+{
+  "name": "manetti-agency",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.5",
+    "@reduxjs/toolkit": "^1.8.5",
+    "bootstrap": "^5.1.3",
+    "dotenv": "^16.0.1",
+    "next": "12.1.6",
+    "nodemailer": "^6.7.8",
+    "nodemailer-smtp-transport": "^2.4.2",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-notifications-component": "^4.0.1",
+    "react-redux": "^8.0.2",
+    "react-responsive": "^9.0.0-beta.10",
+    "react-typewriter-effect": "^1.1.0",
+    "react-typical": "^0.1.0",
+    "set-value": "^3.0.1"
+  },
+  "devDependencies": {
+    "eslint": "8.17.0",
+    "eslint-config-next": "12.1.6"
+  }
+}

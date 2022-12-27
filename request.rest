@@ -1,0 +1,25 @@
+
+
+POST http://localhost:3000/api/email
+Content-Type:application/json
+Accept:application/json
+
+{
+    "body" : "Email Object",
+    "email" : "dev.benito.massidda@gmail.com",
+    "name":"Ben",
+    "message":"Test"
+}
+
+
+#########
+POST https://nova42.it//api/email
+Content-Type:application/json
+Accept:application/json
+
+{
+    "body" : "Email Object",
+    "email" : "dev.benito.massidda@gmail.com",
+    "name":"Ben",
+    "message":"Test"
+}
