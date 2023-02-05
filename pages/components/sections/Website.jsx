@@ -97,7 +97,7 @@ const Website = () => {
                     <div className="row row-nova pb-5 pb-lg-0">
                     <div className="col-12 col-md-4 text-white size-14 weight-200 lh-35 p-5 pt-0 p-md-4 mt-md-3">
                             <FadeLeft delay={1}>
-                                <Image src='/imgs/svg/code-block.svg' width={338} height={295}/>
+                                <Image src='/imgs/svg/code-block.svg' width={338} height={295} alt="code-block"/>
                             </FadeLeft>
                         </div>
                         <div className="mt-5 mt-md-0 col-11 mx-auto offset-md-1 col-md-7 text-center text-md-start">
@@ -212,11 +212,11 @@ const Website = () => {
                     <div className="row mt-4 pb-0 pb-md-5">
                         <div className="col-12 col-lg-3 box-center pb-5 pb-lg-0">
                             <FadeIn delay={1}>
-                            <Image src='/imgs/nova-web-development.png' width={250} height={170} />
+                            <Image src='/imgs/nova-web-development.png' width={250} height={170} alt="nova-web-development" />
                                 <h3 className="card-title size-22 weight-700 text-center text-md-left mt-3">Full Stack Accademy</h3>
                                 <p className="size-16 text-white weight-400 mt-2 text-center text-md-left">
                                 A coding sei a zero?<br/>
-                                    Don't worry!
+                                    Don&apos;t worry!
                                 </p>
                                 <Link href={'/corso'}>
                                     <div className="d-flex justify-content-center justify-content-md-start">
@@ -227,7 +227,7 @@ const Website = () => {
                         </div>
                         <div className="col-12 col-lg-3 box-center pb-5 pb-lg-0">
                             <FadeIn delay={2}>
-                                <Image src='/imgs/nova-devben-development.png' width={250} height={170} />
+                                <Image src='/imgs/nova-devben-development.png' width={250} height={170} alt="nova-devben-development" />
                                 <h3 className="card-title size-22 weight-700 text-center text-md-left mt-3">App Development</h3>
                                 <p className="size-16 text-white weight-400 mt-2 text-center text-md-left">
                                     Ottieni una consulenza <br/>
@@ -242,7 +242,7 @@ const Website = () => {
                         </div>
                         <div className="col-12 col-lg-3 box-center pb-5 pb-lg-0">
                             <FadeIn delay={3}>
-                            <Image src='/imgs/nova-ux-ui.png' width={250} height={170} />
+                            <Image src='/imgs/nova-ux-ui.png' width={250} height={170} alt="nova-ux-ui" />
                                 <h3 className="card-title size-22 weight-700 text-center text-md-left mt-3">Ux/Ui Design</h3>
                                 <p className="size-16 text-white weight-400 mt-2 text-center text-md-left">
                                     Curiamo UX e UI del tuo  <br/>
@@ -257,7 +257,7 @@ const Website = () => {
                         </div>
                         <div className="col-12 col-lg-3 box-center pb-5 pb-lg-0">
                             <FadeIn delay={3}>
-                            <Image src='/imgs/nova-software-development.png' width={250} height={170} />
+                            <Image src='/imgs/nova-software-development.png' width={250} height={170} alt="nova-software-development" />
                                 <h3 className="card-title size-22 weight-700 text-center text-md-left mt-3">Software Development</h3>
                                 <p className="size-16 text-white weight-400 mt-2 text-center text-md-left">
                                     Costruiamo il software su misura <br/>

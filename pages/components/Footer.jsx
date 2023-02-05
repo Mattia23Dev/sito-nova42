@@ -15,7 +15,7 @@ const Footer = ({bg}) =>{
                         <h5 className="w-100 text-gray size-14 text-center text-md-start h-3-rem">Copyright © 2022 Nova42 All rights reserved</h5>
                     </div>
                     <div className="d-flex flex-column flex-md-row col-12 col-md-6 space-around">
-                        <p className="text-gray size-14 text-center text-md-start text-md-end pointer h-3-rem">Nova42 S.r.l. - Roma (RM) Viale dell'Arte 19/A - 00144 - P.iva 16709281006</p>
+                        <p className="text-gray size-14 text-center text-md-start text-md-end pointer h-3-rem">Nova42 S.r.l. - Roma (RM) Viale dell&apos;Arte 19/A - 00144 - P.iva 16709281006</p>
                     </div>
                 </div>
                 <div className="row">

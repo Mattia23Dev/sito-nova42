@@ -35,7 +35,7 @@ const PrivacyIntro = () => {
                     </h3>
                     <p className="size-16 weight-400 text-left lh-35 mt-2">
                     I trattamenti connessi ai servizi web del sito www.nova42.it hanno luogo presso la sede aziendale in Roma 
-                    e sono curati solo da personale tecnico dell'Ufficio incaricato del trattamento, oppure da eventuali incaricati 
+                    e sono curati solo da personale tecnico dell&apos;Ufficio incaricato del trattamento, oppure da eventuali incaricati 
                     di occasionali operazioni di manutenzione. Nessun dato derivante dal servizio web viene comunicato o diffuso (art. 90 GDPR). 
                     I dati personali forniti dagli utenti che inoltrano richieste di invio di materiale informativo sono utilizzati al solo fine 
                     di eseguire il servizio o la prestazione richiesta e sono comunicati a terzi nel solo caso in cui ciò sia a tal fine necessario (art. 3 GDPR).
@@ -46,9 +46,9 @@ const PrivacyIntro = () => {
                     </h3>
                     <p className="size-16 weight-400 text-left lh-35 mt-2">
                     La presente Privacy Policy ha lo scopo di descrivere le modalità di gestione di questo sito, in riferimento al trattamento dei 
-                    dati personali degli utenti/visitatori che lo consultano. Si tratta di un'informativa che è resa anche ai sensi dell'art. 13 del D. 
+                    dati personali degli utenti/visitatori che lo consultano. Si tratta di un&apos;informativa che è resa anche ai sensi dell&apos;art. 13 del D. 
                     Lgs. 196/03 - Codice in materia di protezione dei dati personali - a coloro che si collegano al sito web aziendale di Nova42 srl ed 
-                    usufruiscono dei relativi servizi web a partire dall'indirizzo [https://www.nova42.it]. Il sito [https://www.nova42.it] è 
+                    usufruiscono dei relativi servizi web a partire dall&apos;indirizzo [https://www.nova42.it]. Il sito [https://www.nova42.it] è 
                     di proprietà e gestione di Nova42 srl, che garantisce il rispetto della normativa in materia di protezione dei dati personali (D.Lgs 196/03).
                     </p>
 
@@ -86,7 +86,7 @@ const PrivacyIntro = () => {
                     </h3>
                     <p className="size-16 weight-400 text-left lh-35 mt-2">
                     Qualora gli utenti/visitatori, collegandosi a questo sito, inviino propri dati personali per accedere a determinati servizi, 
-                    ovvero per effettuare richieste in posta elettronica, ciò comporta l'acquisizione da parte di Nova42 srl dell'indirizzo del 
+                    ovvero per effettuare richieste in posta elettronica, ciò comporta l&apos;acquisizione da parte di Nova42 srl dell&apos;indirizzo del 
                     mittente e/o di altri eventuali dati personali che verranno trattati esclusivamente per rispondere alla richiesta. 
                     I dati personali forniti dagli utenti/visitatori verranno comunicati a terzi solo nel caso in cui la comunicazione sia 
                     necessaria per ottemperare alle richieste degli utenti/visitatori medesimi.
